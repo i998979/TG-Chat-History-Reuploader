@@ -1,0 +1,5 @@
+/.idea
+/.env
+/*.session
+/*.json
+/upload_log.txt
